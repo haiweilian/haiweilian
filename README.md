@@ -9,5 +9,13 @@ Now I'm working at Rxjy Ltd as a web frontend developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"></code>
+
+**Open Source Contributor:**
+
+<p align="left">
+  <a href="https://github.com/mirari/v-viewer">v-viewer</a> .
+  <a href="https://github.com/jdf2e/nutui">nutui</a>
+</p>
 
 ![haiweilian's github stats](https://github-readme-stats.vercel.app/api?username=haiweilian&show_icons=true&theme=tokyonight)
