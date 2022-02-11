@@ -14,6 +14,7 @@ Now I'm working at Rxjy Ltd as a web frontend developer.
 **Open Source Contributor:**
 
 <p align="left">
+  <a href="https://github.com/bfehub">bfehub</a> .
   <a href="https://github.com/mirari/v-viewer">v-viewer</a> .
   <a href="https://github.com/jdf2e/nutui">nutui</a>
 </p>
