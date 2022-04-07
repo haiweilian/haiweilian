@@ -14,9 +14,10 @@ Now I'm working at Rxjy Ltd as a web frontend developer.
 **Open Source Contributor:**
 
 <p align="left">
-  <a href="https://github.com/bfehub">bfehub</a> .
-  <a href="https://github.com/mirari/v-viewer">v-viewer</a> .
-  <a href="https://github.com/jdf2e/nutui">nutui</a>
+  <a href="https://github.com/bfehub">bfehub/all</a> .
+  <a href="https://github.com/mirari/v-viewer">mirari/v-viewer</a> .
+  <a href="https://github.com/jdf2e/nutui">jdf2e/nutui</a> .
+  <a href="https://github.com/pansyjs/watermark">pansyjs/watermark</a>
 </p>
 
-![haiweilian's github stats](https://github-readme-stats.vercel.app/api?username=haiweilian&show_icons=true&theme=tokyonight)
+<!-- ![haiweilian's github stats](https://github-readme-stats.vercel.app/api?username=haiweilian&show_icons=true&theme=tokyonight) -->
