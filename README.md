@@ -15,6 +15,7 @@ Now I'm working at Rxjy Ltd as a web frontend developer.
 
 <p align="left">
   <a href="https://github.com/bfehub">bfehub/all</a> .
+  <a href="https://github.com/bfelib">bfelib/all</a> .
   <a href="https://github.com/mirari/v-viewer">mirari/v-viewer</a> .
   <a href="https://github.com/jdf2e/nutui">jdf2e/nutui</a> .
   <a href="https://github.com/pansyjs/watermark">pansyjs/watermark</a>
