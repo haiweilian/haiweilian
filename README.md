@@ -18,7 +18,8 @@ Now I'm working at Rxjy Ltd as a web frontend developer.
   <a href="https://github.com/bfelib">bfelib/all</a> .
   <a href="https://github.com/mirari/v-viewer">mirari/v-viewer</a> .
   <a href="https://github.com/jdf2e/nutui">jdf2e/nutui</a> .
-  <a href="https://github.com/pansyjs/watermark">pansyjs/watermark</a>
+  <a href="https://github.com/pansyjs/watermark">pansyjs/watermark</a> .
+  <a href="https://github.com/dewfall123/ruabick">dewfall123/ruabick</a>
 </p>
 
 <!-- ![haiweilian's github stats](https://github-readme-stats.vercel.app/api?username=haiweilian&show_icons=true&theme=tokyonight) -->
