@@ -31,12 +31,15 @@ Now I'm working at Undefined Ltd as a web frontend developer.
   <a href="https://github.com/pansyjs/watermark/pulls?q=author%3Ahaiweilian">
     <span>pansyjs/watermark</span>
     <img src="https://img.shields.io/github/stars/pansyjs/watermark" height="18" align="center" />
-  </a> .
+  </a>
+</p>
+
+<!-- <p align="left">
   <a href="https://github.com/dewfall123/ruabick/pulls?q=author%3Ahaiweilian">
     <span>dewfall123/ruabick</span>
     <img src="https://img.shields.io/github/stars/dewfall123/ruabick" height="18" align="center" />
   </a>
-</p>
+</p> -->
 
 <table>
   <tr>
