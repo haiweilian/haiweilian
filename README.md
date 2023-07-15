@@ -1,8 +1,6 @@
 ### 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 haiweilian ٩(๑>◡<๑)۶
 
-找工作中！
-
-<!-- Now I'm working at Undefined Ltd as a web frontend developer. -->
+Now I'm working at Rxjy Ltd as a web frontend developer.
 
 **Languages And Tools:**
 
@@ -51,17 +49,6 @@
     </td>
     <td>
       <img src="https://img.shields.io/github/stars/bfehub?style=social" height="22" align="center" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/nest-micro">
-        <code><strong>nest-micro/**</strong></code>
-        <span>基于 Nest.js 的微服务解决方案，微服务工具包、前后端权限管理系统</span>
-      </a>
-    </td>
-    <td>
-      <img src="https://img.shields.io/github/stars/nest-micro?style=social" height="22" align="center" />
     </td>
   </tr>
   <tr>
