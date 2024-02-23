@@ -85,7 +85,7 @@ Now I'm working at Rxjy Ltd as a web frontend developer.
       </a>
     </td>
     <td>
-      <img src="https://img.shields.io/github/stars/haiweilian/taggd-manager?style=social" height="22" align="center" />
+      <img src="https://img.shields.io/github/stars/haiweilian/vivy-nest-admin?style=social" height="22" align="center" />
     </td>
   </tr>
 </table>
