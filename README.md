@@ -32,12 +32,16 @@ Now I'm working at Rxjy Ltd as a web frontend developer.
   </a>
 </p>
 
-<!-- <p align="left">
-  <a href="https://github.com/dewfall123/ruabick/pulls?q=author%3Ahaiweilian">
-    <span>dewfall123/ruabick</span>
-    <img src="https://img.shields.io/github/stars/dewfall123/ruabick" height="18" align="center" />
+<p align="left">
+  <a href="https://github.com/vbenjs/vite-plugin-mock/pulls?q=author%3Ahaiweilian">
+    <span>vbenjs/vite-plugin-mock</span>
+    <img src="https://img.shields.io/github/stars/vbenjs/vite-plugin-mock" height="18" align="center" />
+  </a> .
+  <a href="https://github.com/vueComponent/ant-design-vue/pulls?q=author%3Ahaiweilian">
+    <span>vueComponent/ant-design-vue</span>
+    <img src="https://img.shields.io/github/stars/vueComponent/ant-design-vue" height="18" align="center" />
   </a>
-</p> -->
+</p>
 
 <table>
   <tr>
@@ -67,6 +71,17 @@ Now I'm working at Rxjy Ltd as a web frontend developer.
       <a href="https://github.com/haiweilian/taggd-manager">
         <code><strong>taggd-manager</strong></code>
         <span>图片打点工具(Image Tag)，支持移动、缩放、自定义事件</span>
+      </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/haiweilian/taggd-manager?style=social" height="22" align="center" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/haiweilian/vivy-nest-admin">
+        <code><strong>vivy-nest-admin</strong></code>
+        <span>基于 Nest.js & React.js & TypeORM 的后台权限管理系统</span>
       </a>
     </td>
     <td>
