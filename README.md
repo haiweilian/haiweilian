@@ -16,30 +16,30 @@ Now I'm working at Rxjy Ltd as a web frontend developer.
 <p align="left">
   <a href="https://github.com/mirari/v-viewer/pulls?q=author%3Ahaiweilian">
     <span>mirari/v-viewer</span>
-    <img src="https://img.shields.io/github/stars/mirari/v-viewer" height="18" align="center" />
+    <img src="https://img.shields.io/github/stars/mirari/v-viewer?style=flat" height="18" align="center" />
   </a> .
   <a href="https://github.com/jdf2e/nutui/pulls?q=author%3Ahaiweilian">
     <span>jdf2e/nutui</span>
-    <img src="https://img.shields.io/github/stars/jdf2e/nutui" height="18" align="center" />
+    <img src="https://img.shields.io/github/stars/jdf2e/nutui?style=flat" height="18" align="center" />
   </a> .
   <a href="https://github.com/youzan/vant/pulls?q=author%3Ahaiweilian">
     <span>youzan/vant</span>
-    <img src="https://img.shields.io/github/stars/youzan/vant" height="18" align="center" />
+    <img src="https://img.shields.io/github/stars/youzan/vant?style=flat" height="18" align="center" />
   </a> .
   <a href="https://github.com/pansyjs/watermark/pulls?q=author%3Ahaiweilian">
     <span>pansyjs/watermark</span>
-    <img src="https://img.shields.io/github/stars/pansyjs/watermark" height="18" align="center" />
+    <img src="https://img.shields.io/github/stars/pansyjs/watermark?style=flat" height="18" align="center" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/vbenjs/vite-plugin-mock/pulls?q=author%3Ahaiweilian">
     <span>vbenjs/vite-plugin-mock</span>
-    <img src="https://img.shields.io/github/stars/vbenjs/vite-plugin-mock" height="18" align="center" />
+    <img src="https://img.shields.io/github/stars/vbenjs/vite-plugin-mock?style=flat" height="18" align="center" />
   </a> .
   <a href="https://github.com/vueComponent/ant-design-vue/pulls?q=author%3Ahaiweilian">
     <span>vueComponent/ant-design-vue</span>
-    <img src="https://img.shields.io/github/stars/vueComponent/ant-design-vue" height="18" align="center" />
+    <img src="https://img.shields.io/github/stars/vueComponent/ant-design-vue?style=flat" height="18" align="center" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@ Now I'm working at Rxjy Ltd as a web frontend developer.
       </a>
     </td>
     <td>
-      <img src="https://img.shields.io/github/stars/bfehub?style=social" height="22" align="center" />
+      <img src="https://img.shields.io/github/stars/bfehub?style=flat" height="22" align="center" />
     </td>
   </tr>
   <tr>
@@ -63,18 +63,7 @@ Now I'm working at Rxjy Ltd as a web frontend developer.
       </a>
     </td>
     <td>
-      <img src="https://img.shields.io/github/stars/haiweilian/vnext-analysis?style=social" height="22" align="center" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/haiweilian/taggd-manager">
-        <code><strong>taggd-manager</strong></code>
-        <span>图片打点工具(Image Tag)，支持移动、缩放、自定义事件</span>
-      </a>
-    </td>
-    <td>
-      <img src="https://img.shields.io/github/stars/haiweilian/taggd-manager?style=social" height="22" align="center" />
+      <img src="https://img.shields.io/github/stars/haiweilian/vnext-analysis?style=flat" height="22" align="center" />
     </td>
   </tr>
   <tr>
@@ -85,7 +74,7 @@ Now I'm working at Rxjy Ltd as a web frontend developer.
       </a>
     </td>
     <td>
-      <img src="https://img.shields.io/github/stars/haiweilian/vivy-nest-admin?style=social" height="22" align="center" />
+      <img src="https://img.shields.io/github/stars/haiweilian/vivy-nest-admin?style=flat" height="22" align="center" />
     </td>
   </tr>
 </table>
