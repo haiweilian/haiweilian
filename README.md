@@ -1,6 +1,6 @@
 ### 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 haiweilian ٩(๑>◡<๑)۶
 
-Now I'm working at Rxjy Ltd as a web frontend developer.
+Now I'm working at Null Ltd as a web frontend developer.
 
 **Languages And Tools:**
 
